@@ -1,0 +1,3 @@
+This is a python version of the card game cinch.
+It isn't a very popular card game but I play it often at family get togethers and it holds a special place in my heart.
+It is a logical mess featuring slightly broken ASCII print graphics, but it features somewhat intelligent computer opponents for you to play against.
